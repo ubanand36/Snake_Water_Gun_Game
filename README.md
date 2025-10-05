@@ -51,3 +51,4 @@
 
 🌟 Contribute
    If you’d like to contribute or improve the game, feel free to fork this repository and open a pull request!  
+   If you like the game don't forget to star this repo.
