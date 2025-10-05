@@ -37,7 +37,7 @@
 ❌ Lose                      	0                       	+2
 
 
-🕹️ Game Rules
+🕹️ Rules of the Game
  1. There are 5 rounds in one match.
  2. Player with the highest score at the end wins.
  3. You can choose to play again after each game.
