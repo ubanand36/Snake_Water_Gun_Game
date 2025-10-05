@@ -32,9 +32,9 @@
 🧮 Scoring System
 
  Result                  	Points (You)	           Points (Computer)
-🏆 Win	                      +2	                       0
-🤝 Draw                      	+1	                      +1
-❌ Lose                      	0                       	+2
+🏆 Win	                       +2	                       0
+🤝 Draw                        +1	                      +1
+❌ Lose                      	0                         +2
 
 
 🕹️ Rules of the Game
