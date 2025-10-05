@@ -1,3 +1,4 @@
+# SNAKE WATER GUN GAME JUST FOR FUN
 import time
 import random
 
